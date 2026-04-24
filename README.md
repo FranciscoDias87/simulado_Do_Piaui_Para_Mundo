@@ -120,7 +120,7 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
 ## 📞 Suporte
 
-- 📧 Email: francisco.dias87@example.com
+- 📧 Email: franciscocpddias@hotmail.com
 - 🐛 Issues: [Reportar um problema](https://github.com/FranciscoDias87/simulado_Do_Piaui_Para_Mundo/issues)
 - 💬 Discussões: [Participar das discussões](https://github.com/FranciscoDias87/simulado_Do_Piaui_Para_Mundo/discussions)
 
